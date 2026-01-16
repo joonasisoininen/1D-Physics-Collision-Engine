@@ -4,7 +4,7 @@
 
 This repository contains a lightweight, interactive 1D physics simulation modeling elastic collisions between two rigid bodies with friction and wall constraints.
 
-The project demonstrates **AI-assisted system development**: using an LLM to accelerate implementation while retaining ownership over system design, correctness, and validation.
+The project demonstrates **AI-assisted system development**: using an Perplexity to accelerate implementation while retaining ownership over system design, correctness, and validation.
 
 ## Overview
 
