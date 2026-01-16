@@ -41,7 +41,7 @@ Sanity checks live in [`tests/`](tests).
 
 ## AI-Assisted Development
 
-An LLM was used as a development accelerator to:
+Perplexity used to accelerate:
 
 - Generate initial simulation scaffolding
 - Translate physical equations into executable logic
